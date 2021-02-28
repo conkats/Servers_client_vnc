@@ -1,0 +1,9 @@
+#moba xterm VNC settings
+Remote hostname or IP address :127.0.01
+Port:5901
+#Bookmark settings
+Session:130.88.124.157
+
+#Basic SSH settings
+Remote host 130.88.124.157 
+Port :22
