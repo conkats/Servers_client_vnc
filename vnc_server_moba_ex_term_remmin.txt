@@ -7,3 +7,8 @@ Session:130.88.124.157
 #Basic SSH settings
 Remote host 130.88.124.157 
 Port :22
+
+
+#wake it the machine if off
+http://wakeit.manchester.ac.uk/help.html
+https://wiki.archlinux.org/index.php/Wake-on-LAN
