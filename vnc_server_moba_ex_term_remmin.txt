@@ -9,6 +9,9 @@ Remote host 130.88.124.157
 Port :22
 
 
-#wake it the machine if off
+#wake it the machine if off and details
+http://wakeit.manchester.ac.uk/
+
 http://wakeit.manchester.ac.uk/help.html
 https://wiki.archlinux.org/index.php/Wake-on-LAN
+
