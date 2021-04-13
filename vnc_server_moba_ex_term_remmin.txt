@@ -13,5 +13,13 @@ Port :22
 http://wakeit.manchester.ac.uk/
 
 http://wakeit.manchester.ac.uk/help.html
+
+#further information on ethernet tool/ switch on the PC
 https://wiki.archlinux.org/index.php/Wake-on-LAN
+#to see ethernet interface
+ifconfig -a
+#
+ethtool -s interface wol g
+
+ethtool interface | grep Wake-on
 
