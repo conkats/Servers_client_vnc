@@ -8,6 +8,12 @@ Session:130.88.124.157
 Remote host 130.88.124.157 
 Port :22
 
+#check lightdmservice for ubuntu 16.04
+#check that before running remmina and then vglrun glxgears
+sudo systemctl restart lightdm.service
+
+#check vncserver@1.service
+sudo systemctl status vncserver@1.service
 
 #wake it the machine if off and details
 http://wakeit.manchester.ac.uk/
