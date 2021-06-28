@@ -29,3 +29,7 @@ ethtool -s interface wol g
 
 ethtool interface | grep Wake-on
 
+#globalprotect issues
+https://manchester.saasiteu.com/Modules/SelfService/#knowledgeBase/view/A1AF0291462F4BB2AE46C17E639204B9
+https://manchester.saasiteu.com/Modules/SelfService/#knowledgeBase/view/A37CA0212F7F461BB25E52777CCE3AEC
+
