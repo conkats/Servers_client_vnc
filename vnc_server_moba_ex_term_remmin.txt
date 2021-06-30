@@ -1,7 +1,8 @@
 #moba xterm VNC settings
-Remote hostname or IP address :127.0.01
-Port:5901
-#Bookmark settings
+Remote hostname or IP address :127.0.01 | Port:5901
+#Network/Bookmark settings 
+#-> SSH gateway jump host
+Gatewayhost:130.88.124.157 | username: constantinos |port:22
 Session:130.88.124.157
 
 #Basic SSH settings
